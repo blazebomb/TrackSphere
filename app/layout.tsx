@@ -5,7 +5,7 @@ import NavBar from "./NavBar";
 import { Theme } from "@radix-ui/themes";
 import AuthProvider from "./auth/provider";
 import QueryClientProvider from "./QueryClientProvider";
-import FooterBar from "./Footerbar";
+import FooterBar from "./FooterBar";
 
 
 const geistSans = Geist({
